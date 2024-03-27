@@ -1,1 +1,16 @@
 # CryptoClustering
+In this challenge, you'll leverage your Python skills and unsupervised learning techniques to predict whether cryptocurrencies are impacted by 24-hour or 7-day price changes.
+
+For this challenge, a CSV file containing cryptocurrency data was provided. The task involved using standard scaling and scikit-learn to read and transform the data into a DataFrame.
+
+Once the data was prepared, the next step was to determine the optimal K-means value from the scaled data. This was achieved by creating an elbow curve to identify the appropriate K value and subsequently generating a scatter plot to visualize the clusters within the data.
+
+Following the analysis with scaled data, the same procedures were repeated using Principal Component Analysis (PCA).
+
+After analyzing the data using PCA, a comparison was made between the charts generated to assess which method was better suited for the task.
+
+
+
+
+
+
