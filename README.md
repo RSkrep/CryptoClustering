@@ -10,6 +10,8 @@ Following the analysis with scaled data, the same procedures were repeated using
 After analyzing the data using PCA, a comparison was made between the charts generated to assess which method was better suited for the task.
 
 
+Due to issues with my Google Colab running HVplot I used jupyter notebook to diplay my hvplots.
+
 In my completion process, I would first attempt to recall each of these values using my memory. Then, I would refer to the class notes and activities as a way to determine my next course of action when I am unsure or lost. After following these steps, I would consult ChatGPT to identify where I went wrong and use its assistance to correct the code. Additionally, I would ask ChatGPT to explain its process to me so that I could understand how to fulfill these tasks in the future without needing assistance.
 
 
